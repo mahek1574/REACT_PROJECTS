@@ -1,0 +1,50 @@
+[
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzmPUs7GycT8c9xFcAlRGTnUzOjDOShacqA&s  ",
+    "description": "A stunning view of snow-covered mountains under a clear blue sky.",
+    "location": "Himalayas, Nepal",
+    "type": "Mountain",
+    "season": "Winter",
+    "fact": "Mount Everest is the highest mountain on Earth."
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR517THFzDL_PJootucAjS6yx-O-zmW0LFKiQ&s",
+    "description": "A dense green forest with sunlight filtering through the trees.",
+    "location": "Amazon Rainforest, Brazil",
+    "type": "Forest",
+    "season": "Spring",
+    "fact": "The Amazon Rainforest produces 20% of the world's oxygen."
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/5a87961cbe42d637c54cab93/1616404026001-L6YT65EDGPA82UEC9SPJ/lake-louise-banff-national-park-canada.jpg",
+    "description": "A calm lake reflecting the surrounding pine trees and mountains.",
+    "location": "Lake Louise, Canada",
+    "type": "Lake",
+    "season": "Autumn",
+    "fact": "Glacial lakes are formed by melting glaciers."
+  },
+  {
+    "image": "https://media.istockphoto.com/id/665139550/photo/morocco-sand-dunes-of-sahara-desert.jpg?s=612x612&w=0&k=20&c=lg53jUtnF9wvknqVpizoxGniEuwkchg0M_bJAMO50Xk=",
+    "description": "Golden sand dunes under a vibrant sunset sky.",
+    "location": "Sahara Desert, Africa",
+    "type": "Desert",
+    "season": "Summer",
+    "fact": "The Sahara is the largest hot desert in the world."
+  },
+  {
+    "image": "https://media-api.xogrp.com/images/6231de02-db4d-4eda-b37e-e3379a83b0a9~rs_768.h",
+    "description": "Waves gently crashing on a tropical beach with palm trees.",
+    "location": "Maui, Hawaii",
+    "type": "Beach",
+    "season": "Summer",
+    "fact": "Beaches are formed by wave and wind erosion."
+  },
+  {
+    "image": "https://i0.wp.com/probearoundtheglobe.com/wp-content/uploads/2019/12/2-day-itinerary-Iguazu-Falls-Argentina_FT1.jpg?resize=750%2C364&ssl=1",
+    "description": "A powerful waterfall cascading down a rocky cliff surrounded by greenery.",
+    "location": "Iguazu Falls, Argentina",
+    "type": "Waterfall",
+    "season": "Rainy Season",
+    "fact": "Iguazu Falls has more than 270 individual drops."
+  }
+]
