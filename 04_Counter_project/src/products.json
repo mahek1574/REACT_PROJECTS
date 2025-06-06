@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Modern Sofa",
+    "description": "A spacious 3-seater modern fabric sofa with solid wood legs.",
+    "price": 499.99,
+  
+    "image": "https://blog.durian.in/wp-content/uploads/2024/03/01_Images.jpg",
+    "rating": 8.6
+  },
+  {
+    "title": "Dining Table Set",
+    "description": "Wooden dining table with 4 matching cushioned chairs.",
+    "price": 699.0,
+    "image": "https://www.royalzig.com/uploads/cache/cache-Radlett-Modern-Luxury-4-Seater-Round-Dining-Table.jpg",
+    "rating": 9.2
+  },
+  {
+    "title": "Ergonomic Office Chair",
+    "description": "Adjustable mesh chair with lumbar support and 360° swivel.",
+    "price": 149.99,
+  
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTyKsESE0XFF2buCOB9iu7DeodksHj_L98Q-cBNQpMqDpXyAdkBdclotNj7S3ssUckrqRr1WFGKWhbDvCZDwapUxxM7LeY5AoZvU1RvJMw",
+    "rating": 7.5
+  },
+  {
+    "title": "Wooden Bookshelf",
+    "description": "5-tier open bookshelf made of solid oak wood.",
+    "price": 189.5,
+
+    "image": "https://images-cdn.ubuy.co.in/662c9e0cb1975a254e0ee631-idealhouse-farmhouse-bookshelf-corner.jpg",
+    "rating": 8.3
+  },
+  
+  {
+    "title": "Coffee Table",
+    "description": "Minimalist glass-top coffee table with a metal frame.",
+    "price": 129.0,
+    "image": "https://m.media-amazon.com/images/I/51rpNFOQEiL._SL500_.jpg",
+    "rating": 6.2
+  },
+  {
+    "title": "Wardrobe Closet",
+    "description": "Spacious wardrobe with sliding doors and mirrored panels.",
+    "price": 899.99,
+    "image": "https://rukminim2.flixcart.com/image/750/900/xif0q/collapsible-wardrobe/5/e/q/380-pp-1100-0-5-w12-flipkart-perfect-homes-studio-pale-white-140-original-imah3nhnvvruwheq.jpeg?q=20&crop=false",
+    "rating": 9.6
+  }
+]
