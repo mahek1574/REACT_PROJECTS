@@ -1,0 +1,50 @@
+
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: #f0f4f8; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+section {
+  background-color: #ffffff; 
+  padding: 40px 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+
+
+h1 {
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+
+input[type="text"],[type="number"] {
+  width: 90%;
+  padding: 12px 15px;
+  margin-bottom: 25px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+input[type="text"],[type="number"]:focus {
+  border-color: #4A90E2;
+  box-shadow: 0 0 8px rgba(74, 144, 226, 0.5);
+  outline: none;
+}
+
+
+input[type="text"],[type="number"]:hover {
+  border-color: #4A90E2;
+}
