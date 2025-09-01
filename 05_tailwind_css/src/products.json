@@ -1,0 +1,79 @@
+[
+  {
+    
+    "name": "iPhone 14 Pro",
+    "price": "₹1,20,000",
+    "rating":9.8,
+    "description": "A16 Bionic chip, Pro camera system and fentastic results",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSOR6k5qDPOYxL_o-buguDEWwxq37PX7Nrlo_oVhAmAZxyfYqDXFbblgLBVR9RyqXJ42y8Sxzni7zk9_8G5iA7taAxCN9IC_Pq8-yx0kW0nMP7y3__uqYuP2Sq9"
+  },
+  {
+    
+    "name": "Samsung Galaxy S23",
+    "price": "₹90,000",
+    "rating":9.9,
+    "description": "Snapdragon 8 Gen 2, AMOLED display",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPcypuHajrEZkaD4fuKf85mvOe-C6yW1d-ZAl1Tv6Tw-8XiiPQwaqE40Z4B3-D6vTqn-LZbriw5mtrtYkrvezWT2syGXjcNkcFLY_smKIcFNztiJEUHVveeg"
+  },
+  {
+  
+    "name": "OnePlus 11",
+    "price": "₹50,000",
+    "rating":9.1,
+    "description": "Snapdragon 8 Gen 2, 120Hz AMOLED",
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQDxAQEBIQDw8QEBAPDw8PDhAPDQ8QFREYFxURFRUYHSggGBolGxYVIzQhJi4rLi4uFx8zODMuNygtLisBCgoKDg0OGhAQGi0dHSUtLS0tLSstLS0tLSstKy8tKy0tKy0tLSstLS0tLS0rLS0rKystKy0tLS0tLS01Li0tK//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAABwIEAQMGBQj/xABPEAABAwICBQQKDgkDBAMAAAABAAIDBBESIQUGBzFRE0FhcRQXIjI0coGRsrQjJDNCUlNzdZKUobHT1BZUYmOTs9HS8BWFo2TBwsNDgoP/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQIDBAX/xAAnEQEBAAICAQMCBwEAAAAAAAAAAQIRAzESIUFhMqEEExQiUeHwgf/aAAwDAQACEQMRAD8AeKEIQC01lVHDG6WVzY42C7nuNmgLcl9tJxT1VFRXtHhmqpGYsPKuY08mzzhw8t+ZEt1Fxu0KOSV0dNTzTtb/APJezXdIa0OdbrAVwa1Tfqcn0pfwl5GrejsEQ5JpxEAyFgsb8CvY7GqPgyfaptz86P0pm/U5PK6X8JH6UTfqb/pS/hI7GqPgv85Wexp/gv8AOmzzoGs8/wCqP+nL+Es/pLP+qO+nJ+EoPZM3eHjzrXy7uJ85TZ51Y/SWf9Ud/Ek/CR+kk/6m7+JJ+EtHLnifOVkTHifOU2edatI67mnAdNAIwb4Q6ctLrb7YowMrjPpXkDazTH3sLOh9U7F5cMTh5iUs9qFS+Wsdjc4tb3DG3NmsYSLeV4efKOC44NGdsIs0u7oht7cw4no6FW5T+O1il/6c9AqpLnzwo7bFL/031qX8BIGw4IsENn87azSjP2v5KqYnzCBa+29Sfuf41R+XSEssIeR+dt+k/c/xqj8ujtv0n7gdc9QB5zTpK6I0U6Z4AH2Jt6ranxsaC5jSeloKm3PLlkuno9t2j+FS/W5fwFjtvUfGm6+y5LDr9hXRxaHgaPcov4TP6KtW6PhAPsUX8Jn9E2Xk17PGG1yk4031uX8BWdG7VaKSVscgDA42EkUnLRtP7QLWv8oaQOeyXWv4jaCGtYOprQlod99xBuCOZVrDk8n2bG8OAc0hzXAFrgQWkHcQecKS4LY5XSSaPLJHF/JvBjJ3tje2+Anns8SHqIHMu9R0CEIQCEIQCEIQCWm1GJpqqYkZ8hUC+42FPO8D6TQfImWlvtQ8Jpvkan1WoRL0s6I0DSGnheYW4nQxuc4OeCSWAkmxVDT9Vo6jwiRvsjrYIYy587rmwNi6zQTkCd5yFzkqeldbRRaLoywCSqnhjZTxkYhcMaDI5ozcASAGjvi5o4kK6q026KR+GUuq3uJqq4nHIxxFnRwuG4gdyZBn71tmjujMjv6zS8LfdmwUA3iIh9VXnxo8g0H9rk3DgqH+s0J71tYenlIox5A4PI86XM08QPsTpDzkyWzPOcleo6i6ul1DFo9Mtb7jUVkB/bc2VnVZpb9x8q9yj1s3CpDJGkgCeKzXAncHCwBPQQ3gLpZwVOYF7XNl6k9RA0ARymR1rP7nuOkbrEeUq6ieJr3BaHscHxu71w3dIPA9BQHLhdVtOGF2HvonYRJFfcLgNc3ykAcCQM2kYO3fbItOJrgHMcNzmncVizTnZonto3hR65P50i5IrrNoh9s+WT+dIuSJVbZuokrBKxdFZuvS0Rox0zwAFq0Xo90zw0C9ynJqbqsI2hzhmo5Z569J22aoartiaCRmu7p4A0LNPAGiwW4omGGvVrevI0tLZpXqTOXHa3aQEcbs+YozyUqtfK7HKWhcaVe0vVGSVx6SqKsdePHWL6K2LeCP6o/SkTFS62LeCP6o/SkTFR2CEIQCEIQCEIQCXu0OnMtdQxAgGVssQJ70F9PO0E9GaYSUW2rSb6aSKZh7qEsLOjE14P3olKfTmkjyji15cIGNo6Z2Y7mMFplGfP7I4cDIzgF4D8gzmaTY9HkW6oZYtb8EDz2A/wDELUQOfcqLc/IsBa0ukdl3d7R7jew588Nj1qxop179AC9PR9DouOBzp210tVcNZAwxMga5xs0ucbHeOJ37l5lCx4dkywcW2FxveSGjpN2keQqmm6ok3kG1hu5zxVulqomt7rE4uYbWOERvxCxPwsgfP0Lz3U8paJC3uHNe9rrtsWteGOIz+E5o6bi111Wg6bRsET319JVyyxvDMMcjWxBxa1wxDlQTk5p3EZ7klNKmjq4ixsHWvcHc9pycw9BBIPQUztWa7lIXRl2MxEOY4986OQYgT0kFr7c3KW5kppqlmJ7o2cmxxJazFiwjmF8rrsdQq0mSNp99SyAniWzuA8zWRjyKVnPpz+0M+2f4n86RckSur2hH2z9P+dIuSJUASrWj6N0rw0C9ytdJTl7gAL3TY1F1UsA94z6Uc889ek7XdSNVAwBzhnlzJkUtOGgALFHShgAAVtRnDDXrWCtMjlN7lVmejdqtWzYQSlBtE0zvYCmBrNpIRxuN+ZIbWCvMsrjfnRxk8snluNysXWLoutPU+jNivgb+qP0pExUs9ibzyEjb5clCbdPKS5pmKNQIQhAIQhAIQhAJV7YtE9lzUtO3J85AvvuQHkZf/VNRLraTO6Oso5GGz42TyMORs5tPO4HzgIlfPFa7u72tia02O+9sx9qrOlAOYv0cV72s1A7lMdvdmCqjsLA485GDqcTlwLQuacR3J5swbbwhG+erc83AY23My4Pl47h5l62q7hyzXu3N5r5bsvvKp1mkY8L44Y2xxPfFJ3VnyNLGFtmP3gEudlwtwz1aHlLSTzZW+1askqS7j2NOhsbwWucAb2aHHvbgm3Reyw5s8lNysdHMKWM51LWSviuBhu59sIta3Ray8vS8pfY89rf5/nMm3oLajo6HRDIHBwmjpuQNLyJIkcGYe/thwnpN7Hcs26WFdDPcLuNn9zUM/Ypn4hwxylzT5WuCXmj2FxDb2G9xGeFo3u/zebDnTV1ApCI5JyMPKkBg+DG3Jo6krOd9HNbQvCBw7vPmvysmS5eGIuIAXfaw6Rpo6h0NXEXwTXvPHnNA5s0tnBpykbnm3I5XabgI0Nq3FHPE7lI5KecnsaoYcUEtveh3M4WN2Os4WIztiJjLLUXdRdVcRD3hODR1EGNAA3KvojRzY2gAWsvXY3goxhj70KD3LJN8gq8j0btYkevPrZ7ArfI9cvrTpMRRuN+Yo455OE2hab3sBSye65ur+na8zSucTzrzLqx24sNRJYKFgo6PovYmwdivdz4Ym36MUht9qZKXGxLwN/VH6UiY6NBCEIBCEIBCEIBLbal4TTfI1PqtQmSlrtRPtiK2fJUtRK+3vYzHJED9OVgt09BRL04Oto21FHA2+GSONjon/BdgAseLSMiFwtfolznOdG20zfdaY54v2o/hA8Bv5uA7CnrAImNzu1jWkW5wF51fGJLXGYvhcDZzeooxMtOdptMU0cEkXYELqh3cmpllmcY/FjuACF50T7Lpp6Z0nu0bJ+bG7uJgOlzbYvsHQqjtCw8wnb0GSN33NRryjx3SrodB6yMiYWN0dQVE17ioqIi4x8CRe3lvvVaLQbSe5bK/odbD522IXRaL1Ve63KARxjPAAAT0kDn6U2lykebq/od9VKcrRudjlcG4WuN74WjmbwHn4BqU0bWMaxos1osAqdDTMhYGMAAH2qyHKOVu3PVehmVdRIHjEG5eeWX+irnVms0eHvox2bSPsanR8t7yAe+Zb345nNs4WHfbl1WqsOOWpJ5iwf8ALP8A0XXR0oRm2zJyOqGuzGx4i901CCGF8g9uaOed0VS0d8y97SDmy3jNkwTBwxNIc0sLmuabgjmIKXus2pxklNbQubT14aWuJA7GrGHfDOzcQbWv1X3AjydRtOywzSwtaIIYmyGvoamUMdosNbd08Tj39OcrWuRiA3FpRvG/wbDTchw3HECOBwlV32GEexm7QTjdYm/DgqdJpBr4+Wgkjmic0d03Fax3GxsVhlTkMTWuw5NLr3A4GxzCJco21UQdhDDkZOTLhwOYd5r+ZcFrtVsDI3xf6XeoMr7aTmDWckyQsa2NhI+CSXb7my9zWDS8sTO4wF1W808Zcc+UcQy4z7k+yWv0pSS18xgrW1VPR1kGjKlsZjqH1DJoZp5HsIifC4Yoy6IlzXGxyIQwkyvT0a6i0ZS01fVxQ01cGS6PdTs5d09PTyzRv5WB0jSHSRte1xtcXGAHnutqibG978LGY3ufgjBbGzEScDASbNF7AcAvY0prdUVMdTFIIcFTLTyODIyzkRTsLIoogHWawNNrEE5b73XhKu7N0XUUIPpDYj4G/qj++RMhLfYh4E//APP75EyEUIQhAIQhAIQhAJa7R3h1TM3nboyzvLXQkJlJX7QfDar5tb65AjOfTmWQstuHmWwRM4DzBaGuWwOWXFtEDOA8wUxAz4I8wWoOUw5BvjY0bgFuDlWDlMOQWA5TDlWDlMOQetqKLyVnjM/m1C64usuQ1FdZ9Z40f82dezpHSAYDmqzndVvq64N514bqyKSWSpiEIqYKd7JJJBijfSuc3FFMBmY8WE3GbTnuJDuO1n1otdrSuEZrFUxTieCV0UrbgOFnAg72ua4FrmngQQjOEyt2aWrekaaJtcYo5qCemilq6mgNRy9HJTtIJmp3EA2IOVsgciMwSxZ6iJjsONpYC1pjEbnudcDLIXLiCCOsL52m17rnxmLFDTsOG/YlLDTklrsQx4R3bb3u05G5yXrUWv8AWNi9idGBGwMkYYWOnp29618MpGIw52F7lhIbe2G9dbHZ6xazSsfolsL24JdKSU7sdPC5zo2TwNt3bCWmzjmLHzLn4HGum03DUEFj9M6JpHYGRxEQ/wCo1DLdwBnhJ7o58SuEk1nq2x8g2QCNswqI8UUT5YpQ5rscchaXMuWMJsbG3Sb6q/Wism5fHIwdlOhfUcnTwQ8o+FznsecDRZ2J7ySMyTnzI6YTUMCoq6SSpqaKaqgkpB2VDHo6n0NOJqR0bH4XwvbHcPjLbl1zcB196UoOS6Kq11rZGSNc6ASTRmGeqZSU7K6eIgAxyTtbiIIAB5zYXJXOo0ygC6GturlPT3Wscds5ZTGer6B2ISDsWRnvg2J3RYukH/ZMtLDYsLNnHCOIf8syZ6zWpdwIQhFCEIQCEIQCWO0aMtq53fC0YLeStgCZyWm04+2JPmx3r8CM59OMa5TDlWa5TDllxWWuWwOVZrlMOQWQ5TDl5mkax0UYc0BzjJFGA4kNu94bckdaIqifEWO7HD8BcxrZZC42IFyC3vc9/UqunrBymHLxdDSTkP5UC3KS2OJ5f7obAAgdxbceFl6ocolXtXKsRdlkm1zGf+ScrmNbNabktaVS1i0qYMbWm3KAfZJL/VcPUTl5JKukvH5ZbvTZVVTnm5K20NEZDuWikgL3ALvtXtFBoBIVOTOYz0efSarBzcwvP0lq7NTkSwm5ZfKwORFnNIOTmkEgjnBXeVdW2JvMuR0lrLmQFHHDPO30crVxNe3lGCwvhcwkl0L/AIBJzLTnhcekHMEnzivcnmZK/lIwGykWfGTaOZvO08DuseIB3gFebVQjvm3IN7XycLb2OHM4XA8o4gKvXjkqLLW3WWturlPBdaxx2uWUxgp4Lr1qeCwRTwWVmy9mGEj5vLy3KnHsai9jqH81o2W57iSU3+1MlLzY34PP47fSkTDXiy7r6eH0wIQhRoIQhAIQhAJZbUT7Yf8ANjvXoEzUsNqh9sP+bHevQIzn04UOUw5VmuWwOUcVgOUw5Vg5bA5QVtOyhsTHOIDW1FM4kmwAEzSSVpFfS9kiYT0wHIujf7IwPc4vYWk8QA0hekHKQI6FV206CqeUje7FjBqKjC7FiBZyrsNjwtay9MOVZrlsDlEcbrufZWeKf5j1zbW3K6PXX3WPxD/MevM0ZS4nBabt1HsavaOzBIXXSVLYmeReZSWjYvB07pUm4BUeSy55NWntMlxIBXNSSElZleSVqVezDCYxkOVxlQDfELnLFbe8DcfGFzbiCQd6pALY1qq5SLTYe6G6zs2kbiP8/wA5l6dNBZeXSvAOB5sxx7h3xb+PUf68SvZpXnNrhZ7DZw6eP3edd+Czer28f4jetxuAQUIK9bxHPsa8HqPHb6UiYiXexrweo8dvpSJiL5uXdfaw+mBCEKNBCEIBCEIBK7aufbD/AJsd69AmilZtZPth3zY716FGc+i/DlIOVcOUw5RxWA5TDlXDlMOQWA5TDlXDlMOQWQ5TDlWDlMOUHN62NvLH4n/sepaLhDRdbtOx3lZ4g9N61ukwNVZ5L7JaSrsIsFytTMXG6sV9TiKolWN8eGkCsAKdlNrFZHS3SLGKxHEpRRK3HGu2ODz8nK0djXFjzqxTPcRY3M8Db9M9ON/W5mZ6RfgtrWqMzHXa+M4ZYyHxu6RzHoK3lx+87cceT2vS5G8OAI3HNZVaKRowvYMMUxNmfEzDv4eoXBH7JHAqyu3Hn5Y7efkw8bo6NjPg9R47fSemIl1sZ8HqPHb6T0xV4Mu6+vh9MCEIUaCEIQCEIQCVW1w+zu+bHevQpqpU7Xj7O75td67CjOfRbhymHLQCphyjk3hymHLQHKQcgsBymHKuHKYciLAcphyrhymHIKmkR3YPBjfTkXP6Tq+YL1dYKnBbpY305Fykj7m6p47y2i4rCypsatSN26DWqxFEsxRq3HGu2GDz8nIxHGtoCzZYK7yPNbsIusIRGvuWucHHDFNha928RSj3OfyEkH9lxVmB5za8YZGEse3eQ4LQ9oIIOYIsVrjlNg4m74sMUvF8W6KXrGTD1MXO/sy8va9umvPDXvP9/v8Ah8bGPB6j5RvpPTFS52L+D1HyjfvemMvLl3X0cPpgQhCjQQhCAQhCASn2wH2c/NrvXYU2EptsPu5+bXeuwozn0WQKmCtV1kFRybgVIOWkFSBQbw5TDloBUw5BvDlMOVcFTDkHia2nu4vkx6b14IXu619/D8kPTevEaFqRu3TLWqzExRjYrcbF3wxebkzSjYtwCwFgld5Hmt2yVFCwUQLCCVi6AutMzsJElsTQCyVo9/E7J7evnHAgLasFTKeU01jl43Z6bE22pZwHB4D22eNzhd9neVMhLXYezDSTAbg5gHnemUvC+pOghCEUIQhAIQhAJS7Y/dz82u9dhTaSk2yH2f8A25/rkSM59FgCs3UAVm6jkmCpArXdZBQbQVIFagVIFBuDlMOWgFSBQeZrR30PyQ9N68mNq9jWIXdD8k303rz44uf7F348dzbHJnr0SiarDVrYp3XokeTKpXQo3RdVlm6wVi6wgELCxdFZWCVi6ED22J+Cz+O373pkJb7EvBZ/Hb970yF4b2+pj1AhCFGghCEAhCEAlHtm93/253rkSbiUW2f3f/bn+uRIzl0VwKyCoLKjm2XWbqAKyERNZBUFJBMFSBWpSBQaNNi7ovkm+k9VYmq5pYZx/JM9J6rNXt4Z+2PJz39zD4+cb/vWq633UXsv1rrY4y/y1XRdRNxkVi6y0ldF1C6LoJXWFhCAQhYQPfYl4LP47fvemSltsR8Fn8dv3vTJXhvb6mPUCEIUaCEIQCEIQCUW3JhZJTyWOCanmpsXMHtkZKAevD9ibq83WDQkFdTvp6huKN2YIsHseNz2k7nD+oNwSESzcfL0b7i6mmNNsXqWyHkqiB0d+5c8yxvtwLQ1w8t1kbHqz46m+nL/AGKOfjS5CkCmL2n6z46m+nL/AGI7UFZ8dTfTl/sQ8aXaymJ2oaz46m+nL/YjtQ1nx1N9OX+xDxpeLKYXairPjqb6cv8AYs9qKs+Opvpy/wBiHjSu0nV4Xx4sm4eTvzAhxcPschjgRcEEcQbhM2fY9VuaWmWkcDvDnSlptu3MuN5zGeapN2Hz3NxTdBbXTi/kNObecrthy3Gac8+CZ3fTgUXTA7R0vCD6/L+XR2jpeEH1+X8uun6j4c/0nz9v7L5zQd6rvYR1cUyO0dL+4+vS/l0do6XhB9fl/LqXn37LPwuvf7f2WqEyu0dLwg+vy/l0do6X9x9el/Lqfn/C/pvn7FqhMrtHS8IPr8v5dHaOl4QfX5fy6fn/AAfpvn7FqtU07WDM9Q5ymf2jpeEH1+X8ureh9iBEzXTuhjiabnkpZKmVw4DHGxrT0kOHQl5vhZ+GnvXR7DIX9gSSOBAfKGtuLYsLcRcOi77dbSmQq+j6KOniZDC0MjjGFrRc24kk5kk3JJzJJKsLg9QQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCD/2Q=="
+  },
+  {
+    
+    "name": "Google Pixel 7",
+    "price": "₹60,000",
+    "rating":8.9,
+    "description": "Google Tensor chip, Clean Android experience",
+    "image": "https://rukminim2.flixcart.com/image/300/300/xif0q/mobile/g/x/9/-original-imaggsudg5fufyte.jpeg"
+  },
+  {
+    
+    "name": "Xiaomi Redmi Note 12",
+    "price": "₹15,000",
+    "rating":8.8,
+    "description": "Snapdragon 4 Gen 1, AMOLED display",
+    "image": "https://images-cdn.ubuy.co.in/6448874a7494634dba27fe08-xiaomi-redmi-note-12-pro-5g-4g-256gb.jpg"
+  },
+  {
+    
+    "name": "Motorola Edge 30",
+    "price": "₹30,000",
+    "rating":9.9,
+    "description": "Snapdragon 778G+, OLED display  Internal storage options range up to 512GB",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZCmMnjT4YZu6M_TruHehUUvnaXeT_hQRbA&s"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1199,
+    "rating": 9.1,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWjdSaHdG05ykHD6Q5n_oXaKascAedB72aTnZOzF1e26v0jwYfHzdO7aEhr0XfbxUHnyWGCCgiy_zL9V9YW5fJDpZdVIT2s1FIA07v857xSIZ_wLt6yxND-A",
+    "description": "Flagship phone with 200MP camera, Snapdragon 8 Gen 3 and S-Pen support."
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "price": 1399,
+    "rating": 8.9,
+    "image": "https://m.media-amazon.com/images/I/81CgtwSII3L._AC_UF1000,1000_QL80_.jpg",
+    "description": "Premium build, A17 Pro chip, ProMotion display, and amazing camera performance."
+  },
+  {
+    "name": "OnePlus 12",
+    "price": 799,
+    "rating": 8.6,
+    "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/p/g/i/12-cph2573-oneplus-original-imahyzy8wvsewgxx.jpeg?q=20&crop=false",
+    "description": "Blazing-fast performance with 120Hz AMOLED and 5400mAh battery.good storage"
+  },
+ 
+  {
+    "name": "Realme GT 6",
+    "price": 529,
+    "rating": 7.9,
+    "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/m/1/7/gt-6-rmx3851-realme-original-imah2y7ewhzjpfhd.jpeg?q=90&crop=false",
+    "description": "Stylish design with strong performance, 5500mAh battery, and great value."
+  }
+]
