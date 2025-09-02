@@ -1,0 +1,26 @@
+.input-field{
+     padding: 8px;
+  margin: 10px;
+  width: 270px;
+}
+.search{
+    list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  width: 280px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: left;
+  max-height: 150px;
+  overflow-y: auto;
+  background: white;
+}
+.breadlist{
+    padding: 8px;
+  cursor:pointer;
+}
+.image{
+    width: 300px;
+     margin-top: 20px;
+      border-Radius: 10px;
+}
