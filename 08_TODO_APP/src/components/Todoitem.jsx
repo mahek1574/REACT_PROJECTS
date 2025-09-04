@@ -5,7 +5,7 @@ import {
   } from "react-icons/ri";
 import { IoCloseSharp } from "react-icons/io5";
 
-function Todoitem({ task }) {
+function Todoitem({ task,onDelete }) {
   const [done, setDone] = useState(false);
   const [iconType, setIconType] = useState("blank");
 
@@ -23,8 +23,13 @@ function Todoitem({ task }) {
           ) : (
             <RiCheckboxBlankCircleLine onClick={handleIconClick} />
           )}
-          {task}
-          <IoCloseSharp />
+
+          <span className={iconType === "checked" ? "done" : ""}>{task}</span>
+
+          <IoCloseSharp
+            onClick={onDelete}
+            style={{ color: "red", cursor: "pointer" }}
+          />
         </li>
       </ul>
     </div>
